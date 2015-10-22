@@ -1,0 +1,6 @@
+packages/hardcaml/hardcaml.1.1.0/url\ b1ed050f18a45936b8b40df82846ed07\ 0o644
+packages/hardcaml/hardcaml.1.1.0/opam\ 97cc61815154d6dcaf17a68ba73fa770\ 0o644
+packages/hardcaml/hardcaml.1.1.0/descr\ 28564c7d4f5eba489efba9699a8729d8\ 0o644
+compilers/0.1.0/0.1.0/0.1.0.descr\ f3e05503ec3a95d89912bccda4dd50f4\ 0o664
+compilers/0.1.0/0.1.0/0.1.0.comp~\ 39d63e82f7e89bba719a3a4d3f727f58\ 0o644
+compilers/0.1.0/0.1.0/0.1.0.comp\ 7c7f68f3ff66cab23badbc010a580036\ 0o644
