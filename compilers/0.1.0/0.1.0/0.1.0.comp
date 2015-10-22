@@ -1,0 +1,8 @@
+opam-version: "1"
+version: "0.1.0"
+src: "/home/andyman/dev/github/ujamjar/hardcaml/package-manager/hardpam-base"
+build: [
+  [make "PREFIX=%{prefix}%" "install"]
+]
+packages: [ ]
+env: [[HARDPAM_LIB = "%{lib}%/mylibs"]]
